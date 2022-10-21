@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Gonlonge/workflow-git/issues"
   },
-  "homepage": "https://github.com/Gonlonge/workflow-git#readme"
+  "homepage": "https://github.com/Gonlonge/workflow-git#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
